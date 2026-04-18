@@ -1,0 +1,99 @@
+metadata:
+  last_updated: '2026-03-28'
+papers:
+  kGsvDfQAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: Hierarchical Federated Graph Attention Networks for Scalable and Resilient UAV Collision Avoidance
+    year: '2025'
+  kGsvDfQAAAAJ:2osOgNQ5qMEC:
+    citations: 1
+    title: Self Deployment Based on Circle Packing Algorithm for Movement Assisted Wireless Sensor Networks
+    year: '2017'
+  kGsvDfQAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: 'Hierarchical Adaptive Consensus Network: A Dynamic Framework for Scalable Consensus in Collaborative Multi-Agent AI Systems'
+    year: '2025'
+  kGsvDfQAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks
+    year: '2025'
+  kGsvDfQAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Privacy-Preserving Federated Learning for Fair and Efficient Urban Traffic Optimization
+    year: '2025'
+  kGsvDfQAAAAJ:9yKSN-GCB0IC:
+    citations: 15
+    title: Secure Authentication Protocol for IoT Architecture
+    year: '2017'
+  kGsvDfQAAAAJ:IjCSPb-OGe4C:
+    citations: 18
+    title: IoV based Real-Time Smart Traffic Monitoring System for Smart Cities using Augmented Reality
+    year: '2019'
+  kGsvDfQAAAAJ:MXK_kJrjxJIC:
+    citations: 1
+    title: 'Path-Coordinated Continual Learning with Neural Tangent Kernel-Justified Plasticity: A Theoretical Framework with Near State-of-the-Art Performance'
+    year: '2025'
+  kGsvDfQAAAAJ:Se3iqnhoufwC:
+    citations: 1
+    title: "Ray\u2010tracing assisted fingerprinting for localization in IoT Health 4.0"
+    year: '2022'
+  kGsvDfQAAAAJ:Tyk-4Ss8FVUC:
+    citations: 11
+    title: 'Localization for Autonomous Vehicle: Analysis of Importance of IoT Network Localization for Autonomous Vehicle Applications'
+    year: '2018'
+  kGsvDfQAAAAJ:UeHWp8X0CEIC:
+    citations: 8
+    title: Probabilistic RSS Fingerprinting for Localization in Smart Platforms
+    year: '2018'
+  kGsvDfQAAAAJ:UebtZRa9Y70C:
+    citations: 7
+    title: AI-powered anomaly detection with blockchain for real-time security and reliability in autonomous vehicles
+    year: '2025'
+  kGsvDfQAAAAJ:W7OEmFMy1HYC:
+    citations: 15
+    title: "Privacy\u2010preserving cooperative localization in vehicular edge computing infrastructure"
+    year: '2020'
+  kGsvDfQAAAAJ:WF5omc3nYNoC:
+    citations: 35
+    title: 'Precise localization for achieving next-generation autonomous navigation: State-of-the-art, taxonomy and future prospects'
+    year: '2020'
+  kGsvDfQAAAAJ:Y0pCki6q_DkC:
+    citations: 65
+    title: 'Crowd Intelligence for Sustainable Futuristic Intelligent Transportation System: A Review'
+    year: '2020'
+  kGsvDfQAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Blockchain Use Case in Multi-sensor Satellite Architecture
+    year: '2021'
+  kGsvDfQAAAAJ:d1gkVwhDpl0C:
+    citations: 276
+    title: 'Location of Things (LoT): A Review and Taxonomy of Sensors Localization in IoT Infrastructure'
+    year: '2018'
+  kGsvDfQAAAAJ:eQOLeE2rZwMC:
+    citations: 1
+    title: Adaptive Software Defined Node Deployment for Green Internet of Things
+    year: '2020'
+  kGsvDfQAAAAJ:hqOjcs7Dif8C:
+    citations: 2
+    title: Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering
+    year: '2025'
+  kGsvDfQAAAAJ:qjMakFHDy7sC:
+    citations: 140
+    title: 'Ubiquitous Localization (UbiLoc): A Survey and Taxonomy on Device Free Localization for Smart World'
+    year: '2019'
+  kGsvDfQAAAAJ:u-x6o8ySG0sC:
+    citations: 22
+    title: Design of ultra-low noise, wideband low-noise amplifier for highly survival radar receiver
+    year: '2016'
+  kGsvDfQAAAAJ:u5HHmVD_uO8C:
+    citations: 2
+    title: Development of C-Band RF Front-end of Precision Coherent Mono-pulse C-Band Radar
+    year: '2014'
+  kGsvDfQAAAAJ:ufrVoPGSRksC:
+    citations: 31
+    title: AI-Enabled Fingerprinting and Crowdsource-Based Vehicle Localization for Resilient and Safe Transportation Systems
+    year: '2021'
+  kGsvDfQAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Overview and Perspective of Localization Accuracy for Persistent Autonomous Vehicle Systems
+    year: '2019'

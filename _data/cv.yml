@@ -1,0 +1,224 @@
+cv:
+  name: Rathin Chandra S.
+  label: AI/ML R&D Engineer & Researcher
+  email: rathin088@gmail.com
+  location: Bhubaneswar, India
+  image: ""
+  summary: Computer Scientist with a Ph.D. in CSE, specializing in Artificial Intelligence, Machine Learning, and IoT infrastructure. Experienced in developing scalable multi-agent systems, deep learning frameworks, and network localization solutions for next-generation applications.
+
+  social_networks:
+    - network: GitHub
+      username: rathin-chandra
+    - network: LinkedIn
+      username: drrathinchandra
+    - network: X
+      username: drrathinchandra
+
+  address:
+    street: "Bhubaneswar"
+    city: Odisha
+    region: India
+    postalCode: ""
+    countryCode: IN
+
+  sections:
+    Experience:
+      - company: R&D Consultant
+        position: AI/ML R&D Engineer
+        location: Remote
+        start_date: 2020-08-01 # Change to your actual start date
+        end_date: Present
+        summary: Translating deep academic research into scalable, industry-ready software applications and automated pipelines.
+        highlights:
+          - "Architecting automated research workflow and tracking system."
+          - "Engineering multi-agent systems and experimenting with local LLMs (Ollama) to build autonomous, agentic workflows."
+          - "Managing and optimizing  efficient machine learning model deployment across multiple hardware architectures."
+
+      - company: PhD Research Scholar, IIIT Bhubaneswar
+        position: IoT/AI Researcher
+        location: Bhubaneswar, India
+        start_date: 2016
+        end_date: 2021
+        summary: Led extensive research initiatives focusing on the intersection of AI and network infrastructures.
+        highlights:
+          - "Authored comprehensive survey papers mapping the taxonomy of sensor localization in IoT."
+          - "Collaborated with international researchers to design and architect protocols and infrastructure for applied AI in IoT infrastructure."
+      - company: Defence Research and Development Organisation (DRDO), Govt. of India
+        position: Senior Researcher / Engineer (SRF)
+        location: DRDO, India
+        start_date: 2014-08-01
+        end_date: 2016-08-01
+        summary: Led advanced R&D initiatives in radar systems, focusing on data processing software development and RF hardware simulation.
+        highlights:
+          - "Developed and optimized Data Processing System Software for Precision Coherent Mono-pulse C-Band (PCMC) Radar systems."
+          - "Designed, simulated, and analyzed the performance of Low Noise Amplifiers (LNA) and waveguides for high-survival radar receivers."
+          - "Conducted deep technical analysis of radar receiver front-end data to improve system accuracy and signal reliability."
+
+      - company: "Defence Research and Development Organisation (DRDO), Govt. of India"
+        position: "Junior Researcher / Engineer (JRF)"
+        location: "DRDO, India"
+        start_date: "2012-08-01"
+        end_date: "2014-08-01"
+        summary: "Contributed to the core software architecture and data analysis pipelines for critical defense tracking systems."
+        highlights:
+          - "Engineered specialized software modules for the Angle Tracking Sub-System (ATSS) to enhance target tracking capabilities."
+          - "Analyzed and validated complex C-band PCMC Radar receiver data to ensure system performance and signal integrity."
+
+    Volunteer:
+      - company: "IEEE, Elsevier, Springer, ACM, IET"
+        position: "Technical Program Committee (TPC) & Expert Reviewer"
+        location: "Remote"
+        start_date: "2014-01-01"
+        end_date: "Present"
+        summary: "Active leader and contributor to the global computer science research community, providing strategic direction for top-tier journals and conferences."
+        highlights:
+          - "Served on Technical Program Committees (TPC) for international conferences, guiding technical agendas and curating high-impact research in AI, IoT, and network localization."
+          - "Conducted over 80 rigorous technical peer reviews in the current year alone, evaluating 40+ journal submissions and 40+ conference papers."
+          - "Engineered 'ReviewerOS,' a custom automated workflow application leveraging Google Apps Script, to efficiently track, synthesize, and manage this high-volume peer review pipeline."
+
+      - company: "Israel Ministry of Innovation, Science and Technology"
+        position: "Expert Grant Evaluator (Engineering & Advanced Technology)"
+        location: "Remote"
+        start_date: "2024-03-01"
+        end_date: "2024-03-31"
+        summary: "Invited by the national ministry to evaluate high-stakes R&D grant proposals within the Artificial Intelligence sector."
+        highlights:
+          - "Assessed the technical viability, architectural soundness, and innovation potential of proposed AI applications for image localization."
+          - "Provided critical technical audits and funding recommendations to guide government investment in advanced technology research."
+    Education:
+      - institution: IIIT Bhubaneswar
+        location: Bhubaneswar, India
+        url: https://www.iiit-bh.ac.in/
+        area: Computer Science and Engineering
+        studyType: Ph.D.
+        start_date: 2016
+        end_date: 2021
+        score: ""
+        courses: "Artificial Intelligence, Internet of Things, Sensor/Object Localization"
+        highlights:
+          - "Published highly-cited research on IoT infrastructure, localization, and autonomous vehicle safety in top-tier IEEE journals."
+          - "Conducted advanced research utilizing machine learning and deep learning architectures."
+
+      - institution: Veer Surendra Sai University of Technology (VSSUT), Odisha
+        location: Odisha, India
+        area:  Information and Communication Technology
+        studyType: M.Tech
+        start_date: 2014
+        end_date: 2016
+        highlights:
+          - "Effectiveness of Anchor Positioning in Localization of Wireless Sensor Network"
+
+      - institution: Biju Patnaik University of Technology (BPUT), Rourkela, India
+        location: Odisha, India
+        area:  Electronics & Telecommunication Engineering
+        studyType: B.Tech
+        start_date: 2006
+        end_date: 2010
+        highlights:
+          - "Wireless Missing Person Detection"
+    Awards:
+      - title: "Senior Research Fellowship (SRF)"
+        date: "2014-08-01"
+        awarder: "Defence Research and Development Organisation (DRDO), Govt. of India"
+        summary: "Prestigious national fellowship awarded to fund advanced R&D initiatives in radar systems and data processing software."
+
+      - title: "Junior Research Fellowship (JRF)"
+        date: "2012-08-01"
+        awarder: "Defence Research and Development Organisation (DRDO), Govt. of India"
+        summary: "Government-funded research fellowship awarded for the engineering and analysis of critical defense tracking systems."
+
+      - title: "GATE Qualification: Electronics and Communication"
+        date: "2013-03-01"
+        awarder: "Graduate Aptitude Test in Engineering (GATE)"
+        summary: "Successfully qualified in both 2010 and 2013, demonstrating top-percentile proficiency in foundational engineering, advanced mathematics, and electronics."
+
+    Publications:
+      - title: "AI-Enabled Fingerprinting and Crowdsource-Based Vehicle Localization for Resilient and Safe Transportation Systems"
+        authors:
+          - "Rathin Chandra Shit"
+          - "Suraj Sharma"
+          - "Kumar Yelamarthi"
+          - "Deepak Puthal"
+        publisher: "IEEE Transactions on Intelligent Transportation Systems"
+        releaseDate: "2021-07-01"
+        url: "http://dx.doi.org/10.1109/tits.2021.3053942"
+        summary: "Proposed a novel AI-driven fingerprinting and crowdsourcing architecture to improve the accuracy and resilience of vehicle localization in intelligent transportation systems."
+
+      - title: "Ubiquitous Localization (UbiLoc): A Survey and Taxonomy on Device Free Localization for Smart World"
+        authors:
+          - "Rathin Chandra Shit"
+          - "Suraj Sharma"
+          - "Deepak Puthal"
+          - "Philip James"
+          - "Biswajeet Pradhan"
+          - "Aad van Moorsel"
+          - "Albert Y. Zomaya"
+          - "Rajiv Ranjan"
+        publisher: "IEEE Communications Surveys & Tutorials"
+        releaseDate: "2019-01-01"
+        url: "http://dx.doi.org/10.1109/comst.2019.2915923"
+        summary: "Authored a comprehensive taxonomy on device-free localization technologies, establishing foundational frameworks for smart city and ubiquitous computing environments."
+
+      - title: "Location of Things (LoT): A Review and Taxonomy of Sensors Localization in IoT Infrastructure"
+        authors:
+          - "Rathin Chandra Shit"
+          - "Suraj Sharma"
+          - "Deepak Puthal"
+          - "Albert Y. Zomaya"
+        publisher: "IEEE Communications Surveys & Tutorials"
+        releaseDate: "2018-01-01"
+        url: "http://dx.doi.org/10.1109/comst.2018.2798591"
+        summary: "Conducted an extensive architectural review of sensor localization techniques, mapping the technological landscape and requirements for scalable IoT deployments."
+    
+    Skills:
+      - name: "AI & Machine Learning"
+        level: "Advanced"
+        icon: "fa-solid fa-brain"
+        keywords: "Deep Learning, LLMs (Local & Cloud), RAG, LangChain, Prompt Engineering, MLOps, Multi-Agent Systems, Computer Vision"
+
+      - name: "Programming & Data"
+        level: "Advanced"
+        icon: "fa-solid fa-code"
+        keywords: "Python, SQL, Bash/Shell, C++, Google Apps Script"
+
+      - name: "Systems, CI/CD & Infrastructure"
+        level: "Advanced"
+        icon: "fa-solid fa-network-wired"
+        keywords: "Docker, FastAPI, Airflow, CI/CD pipelines, Redis, Git, Linux, IoT Architecture"
+
+    Languages:
+      - name: "English"
+        summary: "Professional Working Proficiency"
+
+      - name: "Hindi"
+        summary: "Native / Bilingual"
+      
+      - name: "Odia"
+        summary: "Native / Bilingual"
+
+      - name: "Bengali"
+        summary: "Native / Bilingual"
+
+    Interests:
+      - name: "Productivity & Workflow Optimization"
+        icon: "fa-solid fa-stopwatch"
+        keywords: "System Automation, Custom OS Environments, Task Management"
+
+      - name: "Autonomous Systems"
+        icon: "fa-solid fa-robot"
+        keywords: "Agentic Workflows, Edge AI, MLOps"
+
+    Projects:
+      - name: "Multi-Agent Edge LLM Workflows"
+        summary: "Developing and experimenting with local LLMs and multi-agent systems to build secure, offline AI capabilities."
+        start_date: "2026-01-01"
+        end_date: "Present"
+        url: ""
+        highlights:
+          - "Architected local containerized deployments using Docker, FastAPI, and Redis caching."
+          - "Designing agentic workflows to automate complex R&D tasks without relying on cloud dependencies."
+
+    References:
+      - name: "Available upon request"
+        icon: "fa-solid fa-envelope"
+        reference: "Professional references from industry and academic collaborations can be provided."
