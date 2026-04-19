@@ -1,29 +1,32 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: Rathin Chandra
-first_name: Rathin
+title: NavSense Lab
+first_name: Rathin Chandra
 middle_name: ""
-last_name: Chandra
-email: rathin088@gmail.com
-github_username: rathin-chandra
+last_name: Shit
+email: rathin@navsenselab.org
+description: >
+  Independent research lab focused on Edge AI, TinyML, IoT Localization, Federated Learning, and Autonomous Systems.
+
+github_username: navsenselab
 linkedin_username: drrathinchandra
 scholar_userid: kGsvDfQAAAAJ
+orcid_id: 0000-0003-0642-9695
 contact_note: >
   Feel free to reach out regarding industrial R&D opportunities in AI, Machine Learning, and IoT.
-description: > 
-  Portfolio and research publications of Rathin Chandra.
+
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  NavSense Lab. All rights reserved.
+
+last_updated: false
+  
 keywords: AI, Machine Learning, IoT, R&D, portfolio
 lang: en 
 icon: ⚛️ 
 
-url: "" 
-baseurl: "" 
-last_updated: true
+url: https://navsenselab.org
+baseurl: ""
 impressum_path: 
 back_to_top: true 
 
@@ -73,8 +76,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true
+serve_schema_org: true
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -96,8 +99,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: NavSense Lab
+blog_description: Research notes on Edge AI, TinyML, and IoT Systems
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -284,8 +287,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Chandra]
-  first_name: [Rathin, R.]
+  last_name: [Shit]           # 
+  first_name: [Rathin, R.]    # ✅ correct
 
   style: apa
   locale: en

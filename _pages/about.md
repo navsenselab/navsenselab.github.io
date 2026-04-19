@@ -1,45 +1,35 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: R&D Engineer | Ph.D. in Computer Science & Engineering
+nav: false
+nav_order: 1
+subtitle: >
+  Independent AI/IoT Research Lab · Edge AI · TinyML · Federated Learning · Autonomous Systems
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p></p>
-    <p></p>
-    <p></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: true
+social: true
+news: false
 ---
 
-I am a Computer Science researcher and engineer specializing in **Artificial Intelligence, IoT, and Multi-Agent Systems**. 
+NavSense Lab is an independent research lab focused on building intelligent systems for the edge — from IoT localization to autonomous multi-robot coordination.
 
-With a Ph.D. in Computer Science and Engineering and a strong background in autonomous vehicular networks, my work focuses on bridging the gap between theoretical research and scalable, production-grade deployments. I build intelligent systems that work in the real world, right down to the bare-metal edge.
-
-Currently, I am developing advanced AI architectures, including privacy-preserving multi-agent workflows orchestrated by local LLMs (Qwen, DeepSeek), and optimizing real-time IoT sensor pipelines for edge devices.
-
-I specialize in helping forward-thinking engineering teams transition cutting-edge AI research into production-ready systems. I am currently open to remote strategic roles and collaborations focused on scalable multi-agent and edge compute infrastructure.
+**Founder & Principal Researcher:** [Dr. Rathin Chandra Shit](https://orcid.org/0000-0003-0642-9695)
+Ph.D. in Computer Science & Engineering · 638+ citations · h-index 10 · i10-index 10  
+📍 Bhubaneswar, Odisha, India · ✉️ [rathin@navsenselab.org](mailto:rathin@navsenselab.org)
 
 ---
 
-### What I Do
-* **Applied AI & MLOps:** Building and testing modular, production-ready machine learning pipelines.
-* **Multi-Agent Systems:** Orchestrating complex, cooperative AI agents using localized, open-weight models.
-* **IoT & Edge Deployment:** Containerizing and deploying real-time localization APIs to Linux edge environments.
+### Research Focus
+- **Edge AI & TinyML** — deploying ML on constrained IoT hardware
+- **IoT Localization** — fingerprinting, ray-tracing, crowdsourced methods
+- **Federated & Continual Learning** — privacy-preserving distributed training
+- **Autonomous Systems** — path coordination, multi-robot task allocation
 
-Feel free to explore my [Projects](/projects/) to see my recent engineering work, or browse my [Publications](/publications/) for my academic research.
+---
+
+### Recent News
+- **Apr 2026** — Paper accepted in Elsevier (camera-ready in progress)
+- **2026** — NavSense Lab launched as independent research identity
+- **2024** — arXiv preprints on Path-Coordinated Continual Learning
