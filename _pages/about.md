@@ -32,4 +32,4 @@ Ph.D. in Computer Science & Engineering · 638+ citations · h-index 10 · i10-i
 ### Recent News
 - **Apr 2026** — Paper accepted in Elsevier (camera-ready in progress)
 - **2026** — NavSense Lab launched as independent research identity
-- **2024** — arXiv preprints on Path-Coordinated Continual Learning
+- **2025** — arXiv preprints on Path-Coordinated Continual Learning

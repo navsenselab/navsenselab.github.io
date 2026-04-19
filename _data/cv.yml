@@ -1,18 +1,20 @@
 cv:
-  name: Rathin Chandra S.
-  label: AI/ML R&D Engineer & Researcher
-  email: rathin088@gmail.com
+  name: Rathin Chandra Shit
+  label: Founder & Principal Researcher, NavSense Lab
+  email: rathin@navsenselab.org
   location: Bhubaneswar, India
   image: ""
   summary: Computer Scientist with a Ph.D. in CSE, specializing in Artificial Intelligence, Machine Learning, and IoT infrastructure. Experienced in developing scalable multi-agent systems, deep learning frameworks, and network localization solutions for next-generation applications.
 
   social_networks:
     - network: GitHub
-      username: rathin-chandra
+      username: navsenselab
     - network: LinkedIn
       username: drrathinchandra
     - network: X
       username: drrathinchandra
+    - network: ORCID
+      username: 0000-0003-0642-9695
 
   address:
     street: "Bhubaneswar"
