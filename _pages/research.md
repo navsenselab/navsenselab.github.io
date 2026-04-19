@@ -22,7 +22,7 @@ Deploying deep learning on microcontrollers and edge devices for real-time infer
 Fingerprinting-based and ray-tracing-assisted localization for indoor and vehicular environments, including crowdsourced approaches.
 - RF fingerprinting and channel modeling
 - Ray-tracing-assisted indoor positioning
-- Crowdsourced vehicular localization
+- Crowdsourced-based vehicular localization
 
 ---
 
