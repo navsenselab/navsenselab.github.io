@@ -7,8 +7,8 @@ on:
     - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
-permissions:        # ← ADD THIS
-  contents: write   # ← ADD THIS
+permissions: # ← ADD THIS
+  contents: write # ← ADD THIS
 
 jobs:
   update-citations:
