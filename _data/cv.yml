@@ -103,7 +103,7 @@ cv:
 
       - institution: Veer Surendra Sai University of Technology (VSSUT), Odisha
         location: Odisha, India
-        area:  Information and Communication Technology
+        area: Information and Communication Technology
         studyType: M.Tech
         start_date: 2014
         end_date: 2016
@@ -112,7 +112,7 @@ cv:
 
       - institution: Biju Patnaik University of Technology (BPUT), Rourkela, India
         location: Odisha, India
-        area:  Electronics & Telecommunication Engineering
+        area: Electronics & Telecommunication Engineering
         studyType: B.Tech
         start_date: 2006
         end_date: 2010
@@ -171,7 +171,7 @@ cv:
         releaseDate: "2018-01-01"
         url: "http://dx.doi.org/10.1109/comst.2018.2798591"
         summary: "Conducted an extensive architectural review of sensor localization techniques, mapping the technological landscape and requirements for scalable IoT deployments."
-    
+
     Skills:
       - name: "AI & Machine Learning"
         level: "Advanced"
@@ -194,7 +194,7 @@ cv:
 
       - name: "Hindi"
         summary: "Native / Bilingual"
-      
+
       - name: "Odia"
         summary: "Native / Bilingual"
 

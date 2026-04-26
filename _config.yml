@@ -20,15 +20,15 @@ footer_text: >
   NavSense Lab. All rights reserved.
 
 last_updated: false
-  
+
 keywords: AI, Machine Learning, IoT, R&D, portfolio
-lang: en 
-icon: ⚛️ 
+lang: en
+icon: ⚛️
 
 url: https://navsenselab.org
 baseurl: ""
-impressum_path: 
-back_to_top: true 
+impressum_path:
+back_to_top: true
 
 # -----------------------------------------------------------------------------
 
@@ -287,8 +287,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Shit]           # 
-  first_name: [Rathin, R.]    # ✅ correct
+  last_name: [Shit] #
+  first_name: [Rathin, R.] # ✅ correct
 
   style: apa
   locale: en

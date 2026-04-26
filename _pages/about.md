@@ -7,7 +7,6 @@ nav_order: 1
 subtitle: >
   Independent AI/IoT Research Lab · Edge AI · TinyML · Federated Learning · Autonomous Systems
 
-
 selected_papers: true
 social: true
 news: false
@@ -22,6 +21,7 @@ Ph.D. in Computer Science & Engineering · 638+ citations · h-index 10 · i10-i
 ---
 
 ### Research Focus
+
 - **Edge AI & TinyML** — deploying ML on constrained IoT hardware
 - **IoT Localization** — fingerprinting, ray-tracing, crowdsourced methods
 - **Federated & Continual Learning** — privacy-preserving distributed training
@@ -30,6 +30,7 @@ Ph.D. in Computer Science & Engineering · 638+ citations · h-index 10 · i10-i
 ---
 
 ### Recent News
+
 - **Apr 2026** — Paper accepted in Elsevier (camera-ready in progress)
 - **2026** — NavSense Lab launched as independent research identity
 - **2025** — arXiv preprints on Path-Coordinated Continual Learning
