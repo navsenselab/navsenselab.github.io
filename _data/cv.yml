@@ -3,8 +3,7 @@ cv:
   label: Founder & Principal Researcher, NavSense Lab
   email: "rathin@navsenselab.org"
   location: Bhubaneswar, India
-  summary: Computer Scientist with a Ph.D. in CSE, specializing in Artificial Intelligence, Machine Learning, and IoT infrastructure. Experienced in developing scalable multi-agent systems, deep learning frameworks, and network localization solutions for next-generation applications.
-
+  summary: Computer Scientist with a Ph.D. in CSE and 638+ citations (h-index 10, i10-index 10), specializing in Edge AI, TinyML, IoT Localization, and Federated Learning. Independent researcher and founder of NavSense Lab, with experience spanning academic research, defense R&D, and AI/IoT industry consulting.
   social_networks:
     - network: GitHub
       username: navsenselab
@@ -27,6 +26,17 @@ cv:
           - "Architecting automated research workflow and tracking system."
           - "Engineering multi-agent systems and experimenting with local LLMs (Ollama) to build autonomous, agentic workflows."
           - "Managing and optimizing efficient machine learning model deployment across multiple hardware architectures."
+
+      - company: NavSense Lab (Independent)
+        position: Founder & Principal Researcher / AI Consultant
+        location: Remote
+        start_date: "2021-05-01"
+        end_date: Present
+        summary: Independent researcher and consultant translating deep academic research into scalable AI/IoT systems. Founded NavSense Lab as a formal independent research identity.
+        highlights:
+          - "Published 7+ research papers on Path-Coordinated Continual Learning, Federated Learning, and Multi-Robot Systems (2025)."
+          - "Providing AI/IoT consulting: model deployment across constrained edge hardware architectures.."
+          - "Expert Grant Evaluator, Israel Ministry of Innovation (2024) — assessed AI proposals for national R&D funding."
 
       - company: PhD Research Scholar, IIIT Bhubaneswar
         position: IoT/AI Researcher

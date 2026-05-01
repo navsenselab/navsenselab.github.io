@@ -5,14 +5,14 @@ permalink: /
 nav: false
 nav_order: 1
 subtitle: >
-  Independent AI/IoT Research Lab · Edge AI · TinyML · Federated Learning · Autonomous Systems
+  Navigation & Sensing Laboratory · Independent AI/IoT Research · Edge AI · TinyML · Federated Learning · Autonomous Systems
 
 selected_papers: true
 social: true
 news: false
 ---
 
-NavSense Lab is an independent research lab focused on building intelligent systems for the edge — from IoT localization to autonomous multi-robot coordination.
+NavSense Lab _(Navigation & Sensing Laboratory)_ is an independent research lab focused on building intelligent systems for the edge — from IoT localization to autonomous multi-robot coordination.
 
 **Founder & Principal Researcher:** [Dr. Rathin Chandra Shit](https://orcid.org/0000-0003-0642-9695)
 Ph.D. in Computer Science & Engineering · 638+ citations · h-index 10 · i10-index 10  
