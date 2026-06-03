@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-03'
 papers:
   kGsvDfQAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks
     year: '2025'
   kGsvDfQAAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: Privacy-Preserving Federated Learning for Fair and Efficient Urban Traffic Optimization
     year: '2025'
   kGsvDfQAAAAJ:9yKSN-GCB0IC:
@@ -66,7 +66,7 @@ papers:
     title: Blockchain Use Case in Multi-sensor Satellite Architecture
     year: '2021'
   kGsvDfQAAAAJ:d1gkVwhDpl0C:
-    citations: 281
+    citations: 282
     title: 'Location of Things (LoT): A Review and Taxonomy of Sensors Localization in IoT Infrastructure'
     year: '2018'
   kGsvDfQAAAAJ:eQOLeE2rZwMC:
@@ -78,7 +78,7 @@ papers:
     title: Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering
     year: '2025'
   kGsvDfQAAAAJ:qjMakFHDy7sC:
-    citations: 145
+    citations: 146
     title: 'Ubiquitous Localization (UbiLoc): A Survey and Taxonomy on Device Free Localization for Smart World'
     year: '2019'
   kGsvDfQAAAAJ:u-x6o8ySG0sC:
