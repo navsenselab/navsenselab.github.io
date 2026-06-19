@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-19'
 papers:
   kGsvDfQAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: AI-powered anomaly detection with blockchain for real-time security and reliability in autonomous vehicles
     year: '2025'
   kGsvDfQAAAAJ:W7OEmFMy1HYC:
-    citations: 16
+    citations: 17
     title: "Privacy\u2010preserving cooperative localization in vehicular edge computing infrastructure"
     year: '2020'
   kGsvDfQAAAAJ:WF5omc3nYNoC:
@@ -66,7 +66,7 @@ papers:
     title: Blockchain Use Case in Multi-sensor Satellite Architecture
     year: '2021'
   kGsvDfQAAAAJ:d1gkVwhDpl0C:
-    citations: 282
+    citations: 281
     title: 'Location of Things (LoT): A Review and Taxonomy of Sensors Localization in IoT Infrastructure'
     year: '2018'
   kGsvDfQAAAAJ:eQOLeE2rZwMC:
@@ -90,7 +90,7 @@ papers:
     title: Development of C-Band RF Front-end of Precision Coherent Mono-pulse C-Band Radar
     year: '2014'
   kGsvDfQAAAAJ:ufrVoPGSRksC:
-    citations: 32
+    citations: 34
     title: AI-Enabled Fingerprinting and Crowdsource-Based Vehicle Localization for Resilient and Safe Transportation Systems
     year: '2021'
   kGsvDfQAAAAJ:zYLM7Y9cAGgC:
