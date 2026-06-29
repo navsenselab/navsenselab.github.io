@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-29'
 papers:
   kGsvDfQAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -54,7 +54,7 @@ papers:
     title: "Privacy\u2010preserving cooperative localization in vehicular edge computing infrastructure"
     year: '2020'
   kGsvDfQAAAAJ:WF5omc3nYNoC:
-    citations: 37
+    citations: 38
     title: 'Precise localization for achieving next-generation autonomous navigation: State-of-the-art, taxonomy and future prospects'
     year: '2020'
   kGsvDfQAAAAJ:Y0pCki6q_DkC:
@@ -74,7 +74,7 @@ papers:
     title: Adaptive Software Defined Node Deployment for Green Internet of Things
     year: '2020'
   kGsvDfQAAAAJ:hqOjcs7Dif8C:
-    citations: 2
+    citations: 3
     title: Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering
     year: '2025'
   kGsvDfQAAAAJ:qjMakFHDy7sC:
