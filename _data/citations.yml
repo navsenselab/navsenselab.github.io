@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-10'
 papers:
   kGsvDfQAAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: Hierarchical Federated Graph Attention Networks for Scalable and Resilient UAV Collision Avoidance
     year: '2025'
   kGsvDfQAAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: Secure Authentication Protocol for IoT Architecture
     year: '2017'
   kGsvDfQAAAAJ:IjCSPb-OGe4C:
-    citations: 18
+    citations: 19
     title: IoV based Real-Time Smart Traffic Monitoring System for Smart Cities using Augmented Reality
     year: '2019'
   kGsvDfQAAAAJ:MXK_kJrjxJIC:
@@ -50,7 +50,7 @@ papers:
     title: AI-powered anomaly detection with blockchain for real-time security and reliability in autonomous vehicles
     year: '2025'
   kGsvDfQAAAAJ:W7OEmFMy1HYC:
-    citations: 17
+    citations: 18
     title: "Privacy\u2010preserving cooperative localization in vehicular edge computing infrastructure"
     year: '2020'
   kGsvDfQAAAAJ:WF5omc3nYNoC:
@@ -58,7 +58,7 @@ papers:
     title: 'Precise localization for achieving next-generation autonomous navigation: State-of-the-art, taxonomy and future prospects'
     year: '2020'
   kGsvDfQAAAAJ:Y0pCki6q_DkC:
-    citations: 67
+    citations: 68
     title: 'Crowd Intelligence for Sustainable Futuristic Intelligent Transportation System: A Review'
     year: '2020'
   kGsvDfQAAAAJ:_FxGoFyzp5QC:
@@ -66,7 +66,7 @@ papers:
     title: Blockchain Use Case in Multi-sensor Satellite Architecture
     year: '2021'
   kGsvDfQAAAAJ:d1gkVwhDpl0C:
-    citations: 281
+    citations: 282
     title: 'Location of Things (LoT): A Review and Taxonomy of Sensors Localization in IoT Infrastructure'
     year: '2018'
   kGsvDfQAAAAJ:eQOLeE2rZwMC:
@@ -78,7 +78,7 @@ papers:
     title: Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering
     year: '2025'
   kGsvDfQAAAAJ:qjMakFHDy7sC:
-    citations: 147
+    citations: 148
     title: 'Ubiquitous Localization (UbiLoc): A Survey and Taxonomy on Device Free Localization for Smart World'
     year: '2019'
   kGsvDfQAAAAJ:u-x6o8ySG0sC:
