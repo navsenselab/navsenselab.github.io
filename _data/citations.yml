@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-20'
 papers:
   kGsvDfQAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: Blockchain Use Case in Multi-sensor Satellite Architecture
     year: '2021'
   kGsvDfQAAAAJ:d1gkVwhDpl0C:
-    citations: 283
+    citations: 284
     title: 'Location of Things (LoT): A Review and Taxonomy of Sensors Localization in IoT Infrastructure'
     year: '2018'
   kGsvDfQAAAAJ:eQOLeE2rZwMC:
@@ -78,7 +78,7 @@ papers:
     title: Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering
     year: '2025'
   kGsvDfQAAAAJ:qjMakFHDy7sC:
-    citations: 149
+    citations: 150
     title: 'Ubiquitous Localization (UbiLoc): A Survey and Taxonomy on Device Free Localization for Smart World'
     year: '2019'
   kGsvDfQAAAAJ:u-x6o8ySG0sC:
