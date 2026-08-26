@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-26'
 papers:
   kGsvDfQAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks
     year: '2025'
   kGsvDfQAAAAJ:8k81kl-MbHgC:
-    citations: 3
+    citations: 4
     title: Privacy-Preserving Federated Learning for Fair and Efficient Urban Traffic Optimization
     year: '2025'
   kGsvDfQAAAAJ:9yKSN-GCB0IC:
@@ -46,7 +46,7 @@ papers:
     title: Probabilistic RSS Fingerprinting for Localization in Smart Platforms
     year: '2018'
   kGsvDfQAAAAJ:UebtZRa9Y70C:
-    citations: 11
+    citations: 12
     title: AI-powered anomaly detection with blockchain for real-time security and reliability in autonomous vehicles
     year: '2025'
   kGsvDfQAAAAJ:W7OEmFMy1HYC:
@@ -54,11 +54,11 @@ papers:
     title: "Privacy\u2010preserving cooperative localization in vehicular edge computing infrastructure"
     year: '2020'
   kGsvDfQAAAAJ:WF5omc3nYNoC:
-    citations: 38
+    citations: 40
     title: 'Precise localization for achieving next-generation autonomous navigation: State-of-the-art, taxonomy and future prospects'
     year: '2020'
   kGsvDfQAAAAJ:Y0pCki6q_DkC:
-    citations: 68
+    citations: 67
     title: 'Crowd Intelligence for Sustainable Futuristic Intelligent Transportation System: A Review'
     year: '2020'
   kGsvDfQAAAAJ:_FxGoFyzp5QC:
@@ -70,13 +70,17 @@ papers:
     title: 'Location of Things (LoT): A Review and Taxonomy of Sensors Localization in IoT Infrastructure'
     year: '2018'
   kGsvDfQAAAAJ:eQOLeE2rZwMC:
-    citations: 1
+    citations: 2
     title: Adaptive Software Defined Node Deployment for Green Internet of Things
     year: '2020'
   kGsvDfQAAAAJ:hqOjcs7Dif8C:
-    citations: 3
+    citations: 4
     title: Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering
     year: '2025'
+  kGsvDfQAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'Edge-enabled visual perception for autonomous driving: Architectures, optimizations, and communication-aware performance analysis'
+    year: '2026'
   kGsvDfQAAAAJ:qjMakFHDy7sC:
     citations: 150
     title: 'Ubiquitous Localization (UbiLoc): A Survey and Taxonomy on Device Free Localization for Smart World'
@@ -90,7 +94,7 @@ papers:
     title: Development of C-Band RF Front-end of Precision Coherent Mono-pulse C-Band Radar
     year: '2014'
   kGsvDfQAAAAJ:ufrVoPGSRksC:
-    citations: 34
+    citations: 35
     title: AI-Enabled Fingerprinting and Crowdsource-Based Vehicle Localization for Resilient and Safe Transportation Systems
     year: '2021'
   kGsvDfQAAAAJ:zYLM7Y9cAGgC:
